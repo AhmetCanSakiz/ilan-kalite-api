@@ -1,0 +1,26 @@
+{
+  "kategoriKodu": "EMLAK",
+  "kategoriAdi": "Emlak",
+  "altKategoriler": [
+    "Satılık Daire",
+    "Kiralık Daire",
+    "Arsa"
+  ],
+  "zorunluBilgiler": [
+    "m²",
+    "oda sayısı",
+    "ilçe"
+  ],
+  "not": "Arsa ilanlarında oda sayısı aranmaz.",
+  "gecerliKurallar": [
+    "KRL-01",
+    "KRL-02",
+    "KRL-03",
+    "KRL-05",
+    "KRL-06",
+    "KRL-07",
+    "KRL-08",
+    "KRL-09",
+    "KRL-10"
+  ]
+}

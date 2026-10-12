@@ -1,0 +1,27 @@
+{
+  "kategoriKodu": "IKINCIEL",
+  "kategoriAdi": "İkinci El ve Sıfır Alışveriş",
+  "altKategoriler": [
+    "Elektronik",
+    "Ev Eşyası",
+    "Giyim ve Aksesuar",
+    "Anne ve Bebek",
+    "Hobi ve Koleksiyon"
+  ],
+  "zorunluBilgiler": [
+    "ürün durumu (sıfır veya ikinci el)"
+  ],
+  "not": "Yasaklı ürün kuralı (KRL-04) bu kategoride uygulanır.",
+  "gecerliKurallar": [
+    "KRL-01",
+    "KRL-02",
+    "KRL-03",
+    "KRL-04",
+    "KRL-05",
+    "KRL-06",
+    "KRL-07",
+    "KRL-08",
+    "KRL-09",
+    "KRL-10"
+  ]
+}

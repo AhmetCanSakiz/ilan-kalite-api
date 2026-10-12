@@ -1,0 +1,25 @@
+{
+  "kategoriKodu": "VASITA",
+  "kategoriAdi": "Vasıta",
+  "altKategoriler": [
+    "Otomobil",
+    "Motosiklet"
+  ],
+  "zorunluBilgiler": [
+    "model yılı",
+    "km",
+    "hasar kaydı beyanı"
+  ],
+  "not": "Hasar kaydı beyanı 'Hasar kaydı yok' veya 'Hasar kaydı: [tutar]' biçiminde verilir.",
+  "gecerliKurallar": [
+    "KRL-01",
+    "KRL-02",
+    "KRL-03",
+    "KRL-05",
+    "KRL-06",
+    "KRL-07",
+    "KRL-08",
+    "KRL-09",
+    "KRL-10"
+  ]
+}
